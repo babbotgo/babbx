@@ -1,0 +1,28 @@
+{
+  "name": "babbbot",
+  "version": "1.0.0",
+  "description": "Bat bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/babbotgo/babbx.git"
+  },
+  "keywords": [
+    "babb",
+    "bot"
+  ],
+  "author": "x",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/babbotgo/babbx/issues"
+  },
+  "homepage": "https://github.com/babbotgo/babbx#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "telegraf": "^3.30.1"
+  }
+}
